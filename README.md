@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1>I am Manolo, I am Software develloper at Polytechnic School of Antananarivo Madagascar</h1>
+<h3>I am Manolo, I am Software develloper Student at Polytechnic School of Antananarivo Madagascar</h3></br>
 <div style="text-align : center"><strong>"Like the chameleon, one eye on the future, one eye on the past."</strong>
 (Malagasy Proverb)</div>
 
