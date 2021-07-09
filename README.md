@@ -1,7 +1,8 @@
 ### Hi there 👋
 <h1>I am Manolo, I am Software develloper at Polytechnic School of Antananarivo Madagascar</h1>
-<div style="text-allign : center"><strong>Like the chameleon, one eye on the future, one eye on the past.</strong>
+<div style="text-align : center"><strong>Like the chameleon, one eye on the future, one eye on the past.</strong>
 (Malagasy Proverb)</div>
+
 <!--
 **ManoloRaj/ManoloRaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
