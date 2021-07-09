@@ -3,6 +3,7 @@
 <div style="text-align : center"><strong>"Like the chameleon, one eye on the future, one eye on the past."</strong>
 (Malagasy Proverb)</div>
 
+<image src="image/image.jpg">
 <h2>✨ Technologies✨</h2>
 <p><ul>
     <li>JAVA</li>
