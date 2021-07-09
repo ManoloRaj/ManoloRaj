@@ -13,11 +13,13 @@
 </p>
 
 <h2>✨ Facts✨</h2>
+<ul>
 <p>Engineer and not less
     <li>Innovation</li>
     <li>Technology</li>
     <li>Sharing philosophy ⚡ ⚡ ⚡ </li>
 </p>
+</ul>
 <!--
 **ManoloRaj/ManoloRaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
