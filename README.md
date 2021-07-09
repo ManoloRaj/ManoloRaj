@@ -1,6 +1,6 @@
 ### Hi there 👋
-I love Technology
-I 
+<h1>I am Manolo, I am Software develloper at Polytechnic School of Antananarivo Madagascar</h1>
+
 <!--
 **ManoloRaj/ManoloRaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
