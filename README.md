@@ -1,9 +1,12 @@
 ### Hi there 👋
 <h3>I am Manolo, I am Software develloper Student at Polytechnic School of Antananarivo Madagascar</h3></br>
 <div style="text-align : center"><strong>"Like the chameleon, one eye on the future, one eye on the past."</strong>
-(Malagasy Proverb)</div>
+(Malagasy Proverb)</div></br>
+</br>
 
-<image src="image/image.jpg">
+<image src="image/image.jpg" width="50%">
+</br>
+</br>
 <h2>✨ Technologies✨</h2>
 <p><ul>
     <li>JAVA</li>
