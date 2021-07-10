@@ -14,7 +14,7 @@
 
 <h2>✨ Facts✨</h2>
 <ul>
-<p>Engineer and not less
+    <p><li>Engineer, not less BE PROUD</li>
     <li>Innovation</li>
     <li>Technology</li>
     <li>Sharing philosophy ⚡ ⚡ ⚡ </li>
