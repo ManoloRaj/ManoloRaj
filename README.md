@@ -6,9 +6,9 @@
 </br>
 <h2>✨ Technologies✨</h2>
 <p><ul>
-    <li>JAVA</li>
-    <li>PYTHON</li>
-    <li>WEB language</li>
+    <li>JAVA : essentially for desktop software</li>
+    <li>PYTHON  : for data analysis application</li>
+    <li>WEB language : both front and back end devellopment </br> I usually use standart language as HTML CSS ans PHP</li>
    </ul>
 </p>
 
