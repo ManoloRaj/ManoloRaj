@@ -8,7 +8,7 @@
 <p><ul>
     <li>JAVA : essentially for desktop software</li>
     <li>PYTHON  : for data analysis application</li>
-    <li>WEB language : both front and back end devellopment </br> I usually use standart language as HTML CSS ans PHP</li>
+    <li>WEB language : both front and back end devellopment </br> I usually use standart language as HTML CSS and PHP</li>
    </ul>
 </p>
 
