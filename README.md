@@ -12,9 +12,15 @@
    </ul>
 </p>
 
+<h2>🔭 I’m currently working on ...</h2>
+<ul>
+    <p><li>Revolutionary AI</li>
+</p>
+</ul>
+
 <h2>✨ Facts✨</h2>
 <ul>
-    <p><li>Engineer, not less BE PROUD</li>
+    <p><li>Engineer and PROUD</li>
     <li>Innovation</li>
     <li>Technology</li>
     <li>Sharing philosophy ⚡ ⚡ ⚡ </li>
