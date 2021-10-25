@@ -7,7 +7,7 @@
 <h2>✨ Technologies✨</h2>
 <p><ul>
     <li>JAVA : essentially for desktop software</li>
-    <li>PYTHON  : for data analysis application</li>
+    <li>PYTHON  : for data analysis applications using IA Technologies as Tensorflow, Keras, Scikit-learn</li>
     <li>WEB language : both front and back end devellopment </br> I usually use standart language as HTML CSS and PHP</li>
    </ul>
 </p>
