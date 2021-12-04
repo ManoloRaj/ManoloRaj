@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h3>I am Manolo, I am Software developper JUNIOR from <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwib5O7QnNnxAhUYQEEAHRu5DxoQFjAAegQIBRAD&url=http%3A%2F%2Fwww.univ-antananarivo.mg%2FEcole-Superieure-Polytechnique-d-Antananarivo&usg=AOvVaw2q9klQrxYB9z6n5CLnObyd">Polytechnic School of Antananarivo Vontovorona</a> - Madagascar</h3></br>
+<h3>I am Manolo, I am Software developper from <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwib5O7QnNnxAhUYQEEAHRu5DxoQFjAAegQIBRAD&url=http%3A%2F%2Fwww.univ-antananarivo.mg%2FEcole-Superieure-Polytechnique-d-Antananarivo&usg=AOvVaw2q9klQrxYB9z6n5CLnObyd">Polytechnic School of Antananarivo Vontovorona</a> - Madagascar</h3></br>
 <div style="text-align : center"><strong>"Like the chameleon, one eye on the future, one eye on the past."</strong>
 (Malagasy Proverb)</div>
 </br>
@@ -8,7 +8,7 @@
 <p><ul>
     <li>JAVA : essentially for desktop software</li>
     <li>PYTHON  : for data analysis applications using IA Technologies as Tensorflow, Keras, Scikit-learn</li>
-    <li>WEB language : both front and back end devellopment </br> I usually use standart language as HTML CSS and PHP</li>
+    <li>WEB language : both front and back end devellopment </br> I usually use standart language as HTML CSS and DJANGO</li>
    </ul>
 </p>
 
