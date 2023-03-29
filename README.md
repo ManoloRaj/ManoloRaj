@@ -6,21 +6,20 @@
 </br>
 <h2>✨ Technologies✨</h2>
 <p><ul>
-    <li>PYTHON  : for data analysis applications using IA Technologies as Tensorflow, Keras, Scikit-learn</li>
     <li>REACT JS - PHP - JAVA Spring</li>
-    <li>WEB language : both front and back end devellopment </br> I usually use standart language as HTML CSS and DJANGO</li>
+    <li>PYTHON  : for data analysis applications using IA Technologies as Tensorflow, Keras, Scikit-learn</li>
    </ul>
 </p>
 
 <h2>🔭 I’m currently working on ...</h2>
 <ul>
-    <p><li>Revolutionary AI</li>
+    <p><li>Improve skills</li>
 </p>
 </ul>
 
 <h2>✨ Facts✨</h2>
 <ul>
-    <p><li>Engineer and PROUD</li>
+    <p><li>Engineering</li>
     <li>Innovation</li>
     <li>Technology</li>
     <li>Sharing philosophy ⚡ ⚡ ⚡ </li>
